@@ -115,15 +115,15 @@ Created visualizations for:
 
 ## Output Files
 
-- `Kerala_University_Affiliated_Colleges.csv`
+- `Kerala_University_Affiliated_Collegess.csv`
 
 Raw scraped dataset
 
-- `Kerala_University_Colleges_Cleaned.csv`
+- `Kerala_University_Collegess_Cleaned.csv`
 
 Cleaned dataset
 
-- `Kerala_University_Colleges_Final.csv`
+- `Kerala_University_Collegess_Final.csv`
 
 Final dataset after removing unwanted records
 
